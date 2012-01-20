@@ -1,0 +1,2 @@
+C:\Users\Nathan DeGrand\LoT\LoT\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathan DeGrand\LoT\Content\obj\x86\Debug\ResolveAssemblyReference.cache

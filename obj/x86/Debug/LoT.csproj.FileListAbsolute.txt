@@ -1,0 +1,24 @@
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\Content\Preview One.xnb
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\Content\background.xnb
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\Content\blank.xnb
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\LoT.exe
+C:\Users\Nathan DeGrand\LoT\LoT\bin\x86\Debug\LoT.pdb
+C:\Users\Nathan DeGrand\LoT\LoT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathan DeGrand\LoT\LoT\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nathan DeGrand\LoT\LoT\obj\x86\Debug\LoT.exe
+C:\Users\Nathan DeGrand\LoT\LoT\obj\x86\Debug\LoT.pdb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\Content\background.xnb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\Content\Preview One.xnb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\Content\blank.xnb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\LoT.exe
+C:\Users\Nathan DeGrand\LoT\bin\x86\Debug\LoT.pdb
+C:\Users\Nathan DeGrand\LoT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathan DeGrand\LoT\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nathan DeGrand\LoT\obj\x86\Debug\LoT.exe
+C:\Users\Nathan DeGrand\LoT\obj\x86\Debug\LoT.pdb
