@@ -33,13 +33,15 @@ namespace LoT
 
         InputState input = new InputState();
 
-        SpriteBatch spriteBatch;
+        static SpriteBatch spriteBatch;
         SpriteFont font;
         Texture2D blankTexture;
 
         bool isInitialized;
 
         bool traceEnabled;
+
+        public static int screenWidth, screenHeight;
 
         #endregion
 
@@ -114,6 +116,9 @@ namespace LoT
             spriteBatch = new SpriteBatch(GraphicsDevice);
             font = content.Load<SpriteFont>("menufont");
             blankTexture = content.Load<Texture2D>("blank");
+
+            screenHeight = GraphicsDevice.Viewport.Height;
+            screenWidth = GraphicsDevice.Viewport.Width;
 
             // Tell each of the screens to load their content.
             foreach (GameScreen screen in screens)
