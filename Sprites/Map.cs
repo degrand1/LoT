@@ -316,7 +316,7 @@ namespace LoT
                 return grid[x, y];
 
             // All tiles outside the map are empty.
-            return 0;
+            return 1;
         }
     }
 }
